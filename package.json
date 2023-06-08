@@ -1,6 +1,6 @@
 {
   "name": "twilio-cli",
-  "version": "5.8.2",
+  "version": "1.0.0",
   "description": "Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for don.",
   "keywords": [
     "oclif"
@@ -148,7 +148,7 @@
     "update": {
       "s3": {
         "xz": true,
-        "bucket": "twilio-cli-prod"
+        "bucket": "twilio-cli-dev"
       }
     },
     "helpClass": "./src/services/twilio-help/custom-help"
